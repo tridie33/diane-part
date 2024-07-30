@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    .ma_classe {
+        /* Ajustements pour les petits écrans */
+        margin: 0;
+        padding: 0;
+    }
+}
